@@ -7,4 +7,6 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.11.2"
+ron = "0.8.1"
+serde = "1.0.188"
 sycamore = "0.9.0-beta.1"
